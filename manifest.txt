@@ -1,4 +1,4 @@
-﻿changelog.txt
+changelog.txt
 LuxVision.deps.json
 LuxVision.dll
 LuxVision.exe
