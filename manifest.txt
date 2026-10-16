@@ -1,0 +1,11 @@
+﻿changelog.txt
+LuxVision.deps.json
+LuxVision.dll
+LuxVision.exe
+LuxVision.runtimeconfig.json
+StutterGuard.Core.dll
+System.Configuration.ConfigurationManager.dll
+System.Diagnostics.EventLog.dll
+System.Diagnostics.PerformanceCounter.dll
+System.Management.dll
+Uninstall.bat
