@@ -1,9 +1,15 @@
-# LuxVision 1.3.0 — güncelleme penceresinde gösterilir
-Oyun Modu: oyun açılınca otomatik devreye girer, bildirimle duyurulur, alt-tab'da açık kalır
-DESTEK sayfası: giden/yanıtlanan talepler, mail uygulaması açmadan direkt gönderim
-Donanım ekspertizi: genel performans artık donanımın verebileceği güce göre ölçülüyor
-Donanım kartları: işlemci, ekran kartı, bellek ve disk modelleri panelde görünür
-LuxAI güçlendirildi: yeni komutlar, kelime kökü eşleştirme, donanım bilgisi soruları
-Kullanılmayan uygulama denetimi artık geliştirici ve arka plan araçlarını önermez
-Kaldırma sihirbazı: logolu, koyu temalı kaldırma penceresi
-Instagram kartı ve ortalanmış durum çubuğu
+# LuxVision değişiklik günlüğü — güncelleme penceresinde gösterilir
+LuxAI Asistan eklendi — LUX AI sekmesinden sohbet edip işlem yaptırabilirsiniz
+LuxAI her işlemde izin ister — kaldırma resmi kaldırıcıyla, sonlandırma onaylı yapılır
+'X kaldır' ile kurulu uygulamayı bulur, 'X kapat' ile işlemi sonlandırır, 'X nerede' ile konumu açar
+Rapor detayında 'LuxAI'ye Sor' butonu ve her çözüm kartında ✦ sorma butonu
+Raporlar artık detaylı: her sorun için "neden oluyor" açıklaması ve ÇÖZÜM 1-2-3 alternatifleri
+Kullanılmayan uygulama denetimi — uzun süredir açılmayan uygulamaları "X gündür kullanılmadı" bilgisiyle bulur, resmi kaldırıcıyla siler
+Çözüm kartlarının sağında tek tıkla araç açma butonları (Görev Yöneticisi, Aygıt Yöneticisi vb.)
+Akıllı sorumlu seçimi — açık oyun/uygulama yerine arka plandaki gereksiz yükler hedeflenir
+Disk artığı tarayıcısı — kaldırılmış uygulama kalıntılarını bulur, onayla Geri Dönüşüm'e siler
+Kullanımdaki klasörler kilit algılamasıyla korunur — silme artık uygulamayı dondurmaz
+Raporlar tek kartta güncellenir — aynı sorun tekrar eklenmez, düzelince kalkar, yeniye "YENİ" rozeti
+Donanım yetersizliği uyarısı — zayıf CPU/RAM/HDD için yükseltme önerisi rapora eklenir
+Overlay artık arka plana alınca kapanmaz — F12 kısayolu her durumda çalışır
+BOOST sayfasında scroll çizgileri ve HARD seçeneklerde metin sarmalama düzeltildi
