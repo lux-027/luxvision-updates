@@ -1,7 +1,7 @@
-# LuxVision 1.3.1 — güncelleme penceresinde gösterilir
-Derin sistem taraması: donanım güç dengesizliği, tek kanal RAM, başlangıç yükü, güç planı ve sanal bellek tespiti
-Derin işlem & sıçrama dedektifi: ani CPU/RAM/Disk sıçramalarında işlemin kimliği, nedeni ve 'Önceliğini Düşür & Rahatlat' çözümü
-Uygulama içinden Başlangıç Yöneticisi: Görev Yöneticisi'nde görünmeyen kayıtları da tek tıkla kapatma/durdurma
-Raporlarda 3 seviye: Yeşil (OK), Turuncu (ÖNERİ) ve Kırmızı (SORUN) + vurgulu BULUNANLAR kutusu
-Overlay yenilendi: DWM/DXGI gerçek FPS ölçümü + kategorilere göre alt alta düzenli sütun görünümü
-LuxAI çok daha akıllı ve samimi: 'X nedir / silsem olur mu' yazılım dedektifi + görünür 'LuxAI'ye Sor' butonları
+# LuxVision 1.4.0 — güncelleme penceresinde gösterilir
+Yeni SÜRÜCÜ sayfası: ekran kartı/ses/ağ/NVMe sürücü güncelliği, sarı ünlemli aygıt tespiti ve üretici indirme bağlantıları
+Eski sürücü kalıntısı temizleyici: C:\NVIDIA, C:\AMD, DXCache/GLCache/D3DSCache shader önbellekleri tek tıkla güvenle silinir
+BOOST uyarı sistemi: uzun süredir temizlik yapılmadıysa veya geçici önbellek dolduysa alt menüde turuncu "!" rozeti ve BOOST sayfasında uyarı bandı
+Alt menü 4 kategori kapsülüne ayrıldı: Panel+Raporlar | Oyun+Overlay | Boost+Sürücü | LuxAI+Destek+Ayarlar
+Ekspertiz penceresi: sağ scrollbar için genişletilmiş boşluk ve iyileştirilmiş kart düzeni
+Donanım tespiti iyileştirmeleri: disk model adı temizliği ve WMI geri dönüş (fallback) düzeltmeleri

@@ -131,6 +131,7 @@ ko/WindowsFormsIntegration.resources.dll
 LuxVision.deps.json
 LuxVision.dll
 LuxVision.exe
+LuxVision.pdb
 LuxVision.runtimeconfig.json
 Microsoft.CSharp.dll
 Microsoft.DiaSymReader.Native.amd64.dll
@@ -217,6 +218,7 @@ ru/UIAutomationTypes.resources.dll
 ru/WindowsBase.resources.dll
 ru/WindowsFormsIntegration.resources.dll
 StutterGuard.Core.dll
+StutterGuard.Core.pdb
 System.AppContext.dll
 System.Buffers.dll
 System.CodeDom.dll
