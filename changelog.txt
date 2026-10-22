@@ -1,7 +1,5 @@
-# LuxVision 1.4.0 — güncelleme penceresinde gösterilir
-Yeni SÜRÜCÜ sayfası: ekran kartı/ses/ağ/NVMe sürücü güncelliği, sarı ünlemli aygıt tespiti ve üretici indirme bağlantıları
-Eski sürücü kalıntısı temizleyici: C:\NVIDIA, C:\AMD, DXCache/GLCache/D3DSCache shader önbellekleri tek tıkla güvenle silinir
-BOOST uyarı sistemi: uzun süredir temizlik yapılmadıysa veya geçici önbellek dolduysa alt menüde turuncu "!" rozeti ve BOOST sayfasında uyarı bandı
-Alt menü 4 kategori kapsülüne ayrıldı: Panel+Raporlar | Oyun+Overlay | Boost+Sürücü | LuxAI+Destek+Ayarlar
-Ekspertiz penceresi: sağ scrollbar için genişletilmiş boşluk ve iyileştirilmiş kart düzeni
-Donanım tespiti iyileştirmeleri: disk model adı temizliği ve WMI geri dönüş (fallback) düzeltmeleri
+v1.4.1 — Güncelleme sistemi iyileştirmesi
+Güncelleme artık anında görünüyor: pencere indirme bitmeden açılır, ilerleme çubuğu gösterilir.
+İndirme paralel hale getirildi — güncelleme çok daha hızlı tamamlanır.
+Bağlantı kopması veya yavaş ağda güncelleme artık sessizce başarısız olmaz; otomatik tekrar dener.
+İndirme başarısız olursa "Tekrar Dene" butonu çıkar — eski sürümünüz güvende kalır.
