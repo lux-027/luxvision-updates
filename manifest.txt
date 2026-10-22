@@ -1,5 +1,4 @@
 ﻿Accessibility.dll
-changelog.txt
 clretwrc.dll
 clrgc.dll
 clrjit.dll
