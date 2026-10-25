@@ -1,9 +1,8 @@
-﻿LuxVision v1.4.4 - Kucuk Paket, Hafif Guncelleme
+LuxVision v1.4.5 - Omur Yuzdesi Artik Gercek Pil Sagligi Gibi
 
-- Uygulama artik tek dosya: kurulum ~160 MB yerine ~70 MB yer kaplar
-- Guncelleme 460+ dosya yerine tek exe indirir - cok daha hizli iner
-- Eski cok dosyali calisma zamani artiklari ilk acilista otomatik temizlenir
-- Yarim kalan guncelleme indirmeleri de baslangicta temizlenir
-- Gecmis oyun oturumlari artik bilgisayar yeniden baslatilinca sifirlanir
-  ve en fazla 20 oturum saklanir
-- Ayarlar sayfasinda Tema ve Yasal kutulari arasina bosluk eklendi
+- "Omur %" artik iPhone pil sagligi mantiginda: parca sadece surekli
+  yuksek isi/agir yukte calisinca yavasca yipranir, yuzde geri donmez
+- Anlik yuk degisimleri omur yuzdesini artik oynatmiyor - stabil
+- Asinma kalici olarak saklaniyor (hardware-wear.json), kapanip acilsa da korunur
+- Detay penceresinde kalici asinma ve anlik stres ayri gosterilir
+- BOOST sayfasi sag scrollbar varken artik ortalanmis gorunuyor
