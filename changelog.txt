@@ -1,6 +1,9 @@
-﻿LuxVision v1.4.3 - Guncelleme Guvenilirligi
+﻿LuxVision v1.4.4 - Kucuk Paket, Hafif Guncelleme
 
-- Uygulama tepside gunlerce acik kalsa bile guncelleme artik 6 saatte bir
-  otomatik yeniden denetleniyor; yeni surum cikinca yeniden baslatmayi
-  beklemeden guncelleme penceresi gelir
-- Guncelleme bulununca tekrar tekrar kontrol yapilmaz
+- Uygulama artik tek dosya: kurulum ~160 MB yerine ~70 MB yer kaplar
+- Guncelleme 460+ dosya yerine tek exe indirir - cok daha hizli iner
+- Eski cok dosyali calisma zamani artiklari ilk acilista otomatik temizlenir
+- Yarim kalan guncelleme indirmeleri de baslangicta temizlenir
+- Gecmis oyun oturumlari artik bilgisayar yeniden baslatilinca sifirlanir
+  ve en fazla 20 oturum saklanir
+- Ayarlar sayfasinda Tema ve Yasal kutulari arasina bosluk eklendi
