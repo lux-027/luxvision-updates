@@ -1,33 +1,6 @@
-﻿LuxVision v1.4.2 - Bakim ve Dogruluk Surumu
+﻿LuxVision v1.4.3 - Guncelleme Guvenilirligi
 
-DUZELTMELER
-- Kullanilmayan uygulama tespiti duzeltildi: gercek son-kullanim tarihleri
-  okunuyor (UserAssist Vista+ ofset duzeltmesi + Prefetch kanali); az once
-  oynanan oyunlar artik "hic kullanilmadi" diye raporlanmiyor
-- Sicaklik: Kelvin/10 ceviri hatasi giderildi (5030C gibi degerler artik
-  gorunmez); 3 katmanli okuma (ACPI -> perf sayaci -> "~" isaretli tahmin)
-- BOOST hatirlaticisi artik erken gelmiyor: hic BOOST yapilmadiysa zaman
-  uyarisi yok, esikler 5 gun / 400 MB
-- Destek penceresi mesaj gonderildikten sonra kapaniyor
-- Surucu guncelleme linkleri resmi otomatik algilama sayfalarina gidiyor
-  (NVIDIA App / AMD Auto-Detect / Intel DSA); Windows Update akisi once
-  tarama tetikliyor, boylece istege bagli surucu listesi bos gorunmuyor
-
-YENILIKLER
-- F11 ile gercek tam ekran (gorev cubugunu da kaplar)
-- BOOST halkasi yuzdeye gore canli doluyor; yuzde buton icinde gosteriliyor
-- Yeni "Arka Plan Bellek Tuketicileri" raporu + "Incele ve Kapat" penceresi:
-  kucuk ama gereksiz islemleri MB degeri ve nedeniyle listeler, guvenli
-  olanlari tek onayla toplu kapatir
-- Tum Uygulamalar penceresi: kategorili liste (kullanilmayan / kullanilan /
-  calisan / oyun / arka plan / sistem), boyuta gore siralama,
-  "Sadece Kullanilmayanlari Sec" butonu
-- Surucu Merkezi "Yeniden Tara" gercek tarama akisi: liste sifirlanir,
-  sonuclar tek tek akarak gelir
-- Omur % rozetleri tiklanabilir: etken listesi ve oneriler iceren kucuk
-  detay penceresi aciliyor
-- LuxAI: "basladi" gibi kelimelerde yanlis eslesme giderildi; omur sorulari
-  canli veriyle yanitlaniyor; yeni konular (ses, ekran titremesi, pil,
-  FPS, fan sesi, surucu guncelleme); Surucu Merkezi'ne yonlendirme
-- Raporlar sayfasi kucuk pencerede kompakt moda geciyor
-- "Sistem izleniyor" rozeti ust barin sag kosesine tasindi
+- Uygulama tepside gunlerce acik kalsa bile guncelleme artik 6 saatte bir
+  otomatik yeniden denetleniyor; yeni surum cikinca yeniden baslatmayi
+  beklemeden guncelleme penceresi gelir
+- Guncelleme bulununca tekrar tekrar kontrol yapilmaz
